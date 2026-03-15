@@ -83,9 +83,6 @@ L'activation d'OSPF et LDP est confirmée par la capture Wireshark. On y voit le
 ![Capture Wireshark OSPF/LDP](1%20-%20Documentation/2%20-%20Resultats/capture1.png)
 *Flux de contrôle : Adjacences OSPF et découvertes de voisins LDP.*
 
-![Détail Hello Message LDP](1%20-%20Documentation/2%20-%20Resultats/Capture2.png)
-*Détail protocolaire : Header LDP Hello Message (LSR ID : 2.2.2.2).*
-
 ### 2. État du Plan de Contrôle (Backbone)
 
 Vérification des adjacences MPLS et de la session MP-BGP.
