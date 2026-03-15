@@ -102,7 +102,7 @@ Validation de la table de routage spécifique au client A sur le routeur PE-1.
 
 Validation de la table de routage spécifique au client B sur le routeur PE-1.
 
-![Table de Routage VRF B](1%20-%20Documentation/2%20-%20Resultats/capture6.png)
+![Table de Routage VRF B](1%20-%20Documentation/2%20-%20Resultats/capture5.png)
 *Sortie `show ip route vrf VPN_CLIENT_B` : Les routes LAN sont apprises et isolées des autres clients.*
 
 **Merci pour votre attention !**
