@@ -1,0 +1,12 @@
+# Fichiers système OS
+.DS_Store
+Thumbs.db
+
+# Logs de console et de terminaux
+*.log
+
+# Fichiers de sauvegarde temporaires et de crash
+*.bak
+*.swp
+*~
+Crashdumps/
